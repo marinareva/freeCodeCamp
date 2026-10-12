@@ -10,7 +10,7 @@ Its goal was to become familiar with basic shell commands and Bash scripting by 
 - `fortune.sh` — displays a fortune.
 - `five.sh` — runs the other four programs.
 
-### What I Learned
+### Learned skills
 - Working with the command line and shell commands.
 - Writing and executing Bash scripts.
 - Using variables, loops, conditionals, and command-line arguments.
